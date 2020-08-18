@@ -1,6 +1,7 @@
 <?php
 
-namespace App;
+namespace App\Models;
+
 use App\User;
 use App\Models\PesananDetail;
 use App\Models\Product;

@@ -1,9 +1,9 @@
 <?php
 
-namespace App;
+namespace App\Models;
+
 use App\Models\Product;
 use App\Models\Pesanan;
-
 use Illuminate\Database\Eloquent\Model;
 
 class PesananDetail extends Model

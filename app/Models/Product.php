@@ -1,8 +1,8 @@
 <?php
 
-namespace App;
-use App\Models\Liga;
+namespace App\Models;
 
+use App\Models\Liga;
 use Illuminate\Database\Eloquent\Model;
 
 class Product extends Model
